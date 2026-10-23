@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GPS Coordinates</string>
+    <string name="location_permission_denied">Location permission is needed to show your coordinates.</string>
+    <string name="location_gps_disabled">Turn on GPS in Settings, then tap Get my location.</string>
+    <string name="location_gps_unavailable">GPS is not available right now. Please try again.</string>
+    <string name="location_searching">Looking for your GPS location…</string>
+    <string name="location_updated">Location updated from GPS</string>
+</resources>
